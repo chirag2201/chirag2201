@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chirag2201
-- 👀 I’m interested in ... Learning programming languages
+- 👀 I’m interested in ... Web Devlopment
 - 🌱 I’m currently studying in ... BCA  
 
 <!---
